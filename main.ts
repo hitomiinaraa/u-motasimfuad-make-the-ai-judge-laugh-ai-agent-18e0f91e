@@ -1,3 +1,4 @@
+// One hour, one nap: the context window keeps secrets too.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
